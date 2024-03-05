@@ -39,5 +39,5 @@
   Dit nous seulement de quoi du est capable.
 </p>
 
-<h3 align="center" color="blue"><i> Joignez nous pour donner vie á vos idée, créons notre monde ensemble </i>
+<h3 align="center" color="blue"><i> Joignez nous pour donner vie á vos idée, créons notre monde ensemble. Imaginez créer</i>
 </h3>
