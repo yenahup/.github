@@ -1,5 +1,7 @@
-<h1>Bienvenue á vous 🙂!</h1>
-<img source = "yenah.png"></img>
+<div style="display: flex; justify-content: space-between;">
+   <div align = "center"><img src="yenah.png" alt="yenah" height="200px"></div>
+   <div style="align-self: center;"><h1 style="text-align: center;">Bienvenue á vous 🙂!</h1></div>
+</div>
 <p>
    C'est un immense plaisir de vous accueillir ici. Si vous avez choisi de vous joindre à nous, c'est probablement parce que vous êtes passionné par l'innovation et la créativité.
 </p>
