@@ -4,19 +4,37 @@
 </p>
 <h3>À propos de nous :</h3>
 <p>
-  Notre raison d'être est de repousser nos limites, de développer notre créativité en innovant des produits. Nous développons des logiciels résolvant des problèmes. Ce qui nous unit, c'est cette passion que nous avons pour l'informatique. Ici, nous mettons en œuvre notre créativité.
+  Notre raison d'être est de repousser nos limites, de cultiver notre créativité en innovant dans nos produits. Nous relevons les défis en développant des logiciels, et ce qui nous unit, c'est notre passion pour l'informatique. Ici, nous mettons en pratique notre créativité.
 </p>
 <h3>
    Notre mission :
 </h3>
 <p>
-  Notre mission est de promouvoir la créativité et l'innovation en développant des logiciels informatiques. Nous détectons un problème et en reponse nous développons un outils informatique pour le bien du public.
+ Notre objectif est de favoriser la créativité et l'innovation grâce au développement de logiciels informatiques. Notre principale motivation est de simplifier la vie en exploitant les technologies disponibles.
 </p>
-
+<h3>
+   Nos valeurs :
+</h3>
+<p>
+   <div>
+      <ul>
+         <li>
+            <p><em> Responsabilité :</em>Nous croyons que nous avons un rôle à jouer dans l'évolution en relevant les défis. Conscients de cela, notre objectif est d'y contribuer.</p>
+         </li>
+         <li>
+            <p> <em> Innovation :</em> Nous sommes attentifs aux défis auxquels nous sommes confrontés, nous encourageons l'innovation pour élever le niveau existant.</p>
+         </li>
+         <li>
+            <p> <em> Collaboration :</em>
+               Nous favorisons la collaboration et l'intelligence collective. En regroupant nos compétences, aussi modestes soient-elles, nous pouvons accomplir de grandes choses.
+            </p>
+         </li>
+      </ul>
+   </div>
+</p>
 <h3> Qui peux nous joindre?</h3>
 <p>
-Le développement n'a pas de limites, nous avons la capacité de créer l'inimaginable et de donner vie à des idées. Cette créativité ne se limite pas aux développeurs. Chacun de nous peut apporter sa contribution, que ce soit dans le domaine de l'imagination, de la conception, ou d'autres aspects. Identifie simplement comment tu peux contribuer et partage-le avec nous.
+Si vous appréciez l'évolution, la créativité et rendre la vie plus facile, alors vous avez votre place parmi nous. Nous sommes conscients que les défis seront toujours présents, mais en nous rejoignant, vous contribuerez à notre avancée constante. Contacter nous.
 </p>
-
-<h3 align="center" color="blue"><i> Joignez nous pour donner vie á vos idée, créons notre monde ensemble. Imaginez et créer</i>
+<h3 style = "align:center;color:green;"><i> Joignez nous pour donner vie á vos idée, créons notre monde ensemble. Imaginez et créer</i>
 </h3>
