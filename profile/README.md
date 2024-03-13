@@ -34,7 +34,7 @@
 </p>
 <h3> Qui peux nous joindre?</h3>
 <p>
-Si vous appréciez l'évolution, la créativité et rendre la vie plus facile, alors vous avez votre place parmi nous. Nous sommes conscients que les défis seront toujours présents, mais en nous rejoignant, vous contribuerez à notre avancée constante. [Contacter nous](mailto:badjodibe@gmail.com).
+Si vous appréciez l'évolution, la créativité et rendre la vie plus facile, alors vous avez votre place parmi nous. Nous sommes conscients que les défis seront toujours présents, mais en nous rejoignant, vous contribuerez à notre avancée constante. <a href="mailto:badjodibe@gmail.com">Contactez-nous</a>.
 </p>
 <h3 style = "align:center;color:green;"><i> Joignez nous pour donner vie á vos idée, créons notre monde ensemble. Imaginez et créer</i>
 </h3>
