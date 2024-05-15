@@ -1,6 +1,5 @@
-#### Guide de contribution sur les projets
 
-# Guide de Contribution au Projet Open Source
+# Guide de contribution sur les projets
 
 Merci de considérer contribuer à nos projet open source ! Votre participation est précieuse pour son développement et son amélioration continue. Ce guide vise à vous orienter tout au long du processus de contribution.
 
@@ -24,7 +23,7 @@ Avant de commencer à travailler sur votre contribution, assurez-vous de synchro
 
 ### 5. Travailler sur votre Contribution
 
-Une fois votre fork mis à jour, créez une nouvelle branche pour votre contribution. Assurez-vous de suivre les conventions de dénomination des branches (par exemple, nom_de_la_fonctionnalité). Travaillez sur votre contribution en suivant les bonnes pratiques de développement et en respectant les normes de codage du projet.
+Une fois votre fork mis à jour, créez une nouvelle branche pour votre contribution.  Travaillez sur votre contribution en suivant les bonnes pratiques de développement et en respectant les normes de codage du projet.
 
 ### 6. Tester votre Contribution
 
@@ -51,5 +50,3 @@ Une fois que votre contribution a été approuvée, elle sera fusionnée dans le
 - Soyez patient et respectueux dans vos interactions avec les autres contributeurs et les mainteneurs du projet.
 
 Nous apprécions énormément votre intérêt pour notre projet et nous avons hâte de voir vos contributions ! Si vous avez des questions ou des préoccupations, n'hésitez pas à nous les partager. Merci encore pour votre soutien !
-
-
