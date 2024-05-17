@@ -12,9 +12,9 @@ Notre mission est de faire vivre notre imagination en développant des produits 
 ____________
 ## Liste des projets
 
-Veuillez voir la liste de nos projets [ici](liste_projets.md).
+Veuillez voir la liste de nos projets [ici](/profile/liste_projets.md).
 _____________
 ## Guide de contribution générale
 
-Pour contribuer á tout projet veillez lire les guide de contribution [ici](guide_contribution.md).
+Pour contribuer á tout projet veillez lire les guide de contribution [ici](/profile/guide_contribution.md).
 
