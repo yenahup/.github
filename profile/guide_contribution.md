@@ -1,7 +1,7 @@
 
 # Guide de contribution sur les projets
 
-Merci de considérer contribuer à nos projet open source ! Votre participation est précieuse pour son développement et son amélioration continue. Ce guide vise à vous orienter tout au long du processus de contribution.
+Merci de considérer contribuer à nos projet open source ! Votre participation est précieuse pour son développement et son amélioration continue. Ce guide vise à vous orienter tout au long du processus de contribution principalement destiné aux développeurs
 
 ## Étapes pour Contribuer
 
@@ -50,3 +50,7 @@ Une fois que votre contribution a été approuvée, elle sera fusionnée dans le
 - Soyez patient et respectueux dans vos interactions avec les autres contributeurs et les mainteneurs du projet.
 
 Nous apprécions énormément votre intérêt pour notre projet et nous avons hâte de voir vos contributions ! Si vous avez des questions ou des préoccupations, n'hésitez pas à nous les partager. Merci encore pour votre soutien !
+
+## Vous ne trouves pas de reponse á vos question
+
+Vous n'avez pas trouvé trouvé ce guide satisfaisant ou que vos préocupation n'ont pas été répondu? Veillez nous contacter [ici](mailto:mabakal7@gmail.com)
